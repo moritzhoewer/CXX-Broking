@@ -15,7 +15,7 @@
 #include "broking/AbstractChannelBase.h"
 
 #define LOG_MODULE "broking"
-#include "util/logging/logging.h"
+#include "logging/logging.h"
 #include <mutex>
 
 namespace broking {

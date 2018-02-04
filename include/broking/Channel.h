@@ -19,7 +19,7 @@
 #undef LOG_MODULE
 
 #define LOG_MODULE "broking"
-#include "util/logging/logging.h"
+#include "logging/logging.h"
 
 #include "broking/AbstractChannelBase.h"
 #include "broking/BufferedSubscription.h"
